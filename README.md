@@ -20,4 +20,3 @@ Sou formado em Sistemas de Informação pela Universidade Nove de Julho, apaixon
 #### Mais sobre mim...
 
 - 🌱 Atualmente trabalho com iOS 💻.
-- 📫 Como entrar em contato: hundily.cerqueira@gmail.com | [LinkedIn](https://www.linkedin.com/in/hundily/) | [Instagram](https://www.instagram.com/hundily/)
